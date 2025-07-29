@@ -112,7 +112,7 @@
 
 这个项目不仅是一个功能性的计算器，更是一个展现数字逻辑之美的绝佳范例。从基本的门电路到组合逻辑的应用，再到巧妙的错误检测设计，每一步都蕴含着数字世界的底层规律。希望这个开源设计能对您有所启发和帮助！
 
--仿真工程文件下载： [ 74HC-series-adder-project.ms14](./74HC-series-adder-project.ms14)
+-仿真工程文件下载： [ 74HC-series-adder-project.ms14](https://github.com/StevenWin818/ThreeDigitBcdAdder/releases/tag/v1.0)
 
 
 -----
